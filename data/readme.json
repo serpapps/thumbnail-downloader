@@ -2,20 +2,17 @@
   "id": 74,
   "created_at": "2025-01-23T00:00:00Z",
   "seo_title": "Thumbnail Downloader - Free Content Download Tool",
-  "seo_description": "https://serp.ly/thumbnail-downloader",
+  "seo_description": null,
   "product_page_url": "https://store.serp.co/product-details/product/thumbnail-downloader",
   "purchase_url": "https://serp.ly/thumbnail-downloader",
   "store_product_id": null,
   "name": "Thumbnail Downloader",
-  "tagline": "https://serp.ly/thumbnail-downloader",
-  "featured_image": "images/thumbnail-downloader.jpg",
-  "featured_image_gif": "images/thumbnail-downloader.gif",
+  "tagline": "Extract video thumbnails from YouTube, Vimeo, and other platforms",
+  "featured_image": "https://raw.githubusercontent.com/serpapps/thumbnail-downloader/assets/images/thumbnail-downloader.jpg",
+  "featured_image_gif": "https://raw.githubusercontent.com/serpapps/thumbnail-downloader/assets/images/thumbnail-downloader.gif",
   "github_repo_url": "https://github.com/serpapps/thumbnail-downloader",
   "github_repo_tags": [
-    "thumbnail-downloader",
-    "downloader",
-    "automation",
-    "tools"
+    "thumbnail-downloader"
   ],
   "github_gist_url": null,
   "features": [
@@ -55,13 +52,11 @@
     "Node.js",
     "Automation"
   ],
-  "serpco_product_page_link": "https://store.serp.co/product-details/product/thumbnail-downloader",
-  "serpai_product_page_link": null,
+  "serpco_product_page_link": "https://serp.co/products/thumbnail-downloader/reviews/",
+  "serpai_product_page_link": "https://serp.ai/products/thumbnail-downloader/reviews/",
   "file_formats": null,
   "categories": [
-    "Video Downloaders",
-    "Content Tools",
-    "Automation"
+    "video hosting"
   ],
   "extraction_targets": null,
   "content_medium": null,
@@ -72,21 +67,18 @@
     "devinschumacher"
   ],
   "funding_links_liberapay": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_opencollective": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_custom": [
     "https://serpapps.github.io/thumbnail-downloader",
     "https://devinschumacher.com/thumbnail-downloader",
-    "https://serp.co/products/thumbnail-downloader/reviews/"
+    "https://serp.co/products/thumbnail-downloader/",
+    "https://github.com/sponsors/devinschumacher"
   ],
   "keywords": [
-    "thumbnail",
-    "downloader",
-    "automation",
-    "tool",
-    "free"
+    "thumbnail downloader"
   ]
 }
